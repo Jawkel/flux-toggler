@@ -1,4 +1,4 @@
-Flux-Toggler (Flux worflow for Alfred)
+Flux-Toggler (Flux workflow for Alfred)
 ======
   Control Flux directly from alfred.
 
