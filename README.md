@@ -14,4 +14,4 @@ Flux-Toggler (Flux workflow for [Alfred](https://www.alfredapp.com))
 | fquit | Quit f.lux |
 
 ### Require
-  * [Alfred](https://www.alfredapp.com)(with Powerpack)
+  * [Alfred](https://www.alfredapp.com) (with Powerpack)
