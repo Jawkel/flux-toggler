@@ -1,6 +1,6 @@
-Flux-Toggler (Flux workflow for Alfred)
+Flux-Toggler (Flux workflow for [Alfred](https://www.alfredapp.com))
 ======
-  Control Flux directly from alfred.
+   Control Flux directly from [alfred](https://www.alfredapp.com).
 
 # Commands
 | keyword | Command |
